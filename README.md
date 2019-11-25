@@ -18,3 +18,5 @@ Random Info:
 -Phone starts charging slowly after 70-75ish% and as the battery gets full, charging speed reduces further. Completely normal behaviour and tested without any thermals at all and got the same result. For a temporary fix, unplug and plug charger and charging speed will slightly increase again. Don't want to fiddle with this as this behaviour is good for overall battery health.
 
 -Please remove any other thermal mods/modules before installing as they'll interfere.
+
+-PROBABLY won't work with ROMs that claim to have kanged thermal blobs/files from other devices as the mechanism of interaction will change, you can try but don't blame if they won't work.
